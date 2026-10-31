@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![GitHub release](https://img.shields.io/github/v/release/shipblueprint/svg-colorit)
+
 # SVG Colorit 🎨
 
 A single Python script that batch-processes SVG files — replaces colors with a custom palette while preserving stroke/detail logic.
